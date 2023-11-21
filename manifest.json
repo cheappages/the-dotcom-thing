@@ -1,0 +1,11 @@
+{
+    "name": "The Dotcom Thing",
+    "version": "1.0.0",
+    "description": "AN experiment with .com websites.",
+    "manifest_version": 3,
+    "author": "Lucas Plumb",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "The Dotcom Thing"
+    }
+}
